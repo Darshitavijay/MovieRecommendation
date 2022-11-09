@@ -37,3 +37,10 @@ the movie, actors present in it or even the
 director of the movie. The systems can
 recommend movies based on one or a
 combination of two or more attributes. 
+
+Content-based filtering methods are based on the description of a product and a profile of the user’s preferred choices. In this recommendation system, products are described using keywords, and a user profile is built to express the kind of item this user likes.
+![image](https://user-images.githubusercontent.com/112798954/200871711-83eb354d-ba38-4a05-a70c-c1cdaef4f473.png)
+For instance, if a user likes to watch movies such as Iron Man, the recommender system recommends movies of the superhero genre or films describing Tony Stark.
+
+The central assumption of content-based filtering is that you will also like a similar item if you like a particular item.
+
